@@ -1,0 +1,7 @@
+{
+  "name": "blog",
+  "compatibility_date": "latest",
+  "assets": {
+    "directory": "./dist"
+  }
+}
