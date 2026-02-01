@@ -15,10 +15,20 @@ export interface DiaryItem {
 const diaryData: DiaryItem[] = [
 	{
 		id: 1,
-		content:
-			"The falling speed of cherry blossoms is five centimeters per second!",
-		date: "2025-01-15T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],
+		content: "北京，北京！",
+		date: "2023-01-25T10:30:00Z",
+		images: [
+			"/images/diary/IMG_20230125_094215.jpg",
+			"/images/diary/IMG_20230125_143825.jpg",
+			"/images/diary/IMG_20230126_073210.jpg",
+			"/images/diary/IMG_20230126_073831.jpg",
+			"/images/diary/IMG_20230126_074422-2.jpg",
+			"/images/diary/IMG_20230126_115642.jpg",
+			"/images/diary/IMG_20230126_204107.jpg",
+			"/images/diary/IMG_20230127_152505.jpg",
+			"/images/diary/IMG_20230126_202740_1.jpg",
+			"/images/diary/IMG_20230127_153034.jpg",
+		],
 	},
 ];
 

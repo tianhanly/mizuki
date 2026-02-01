@@ -1,6 +1,6 @@
 ---
-title: Simple Guides for Mizuki
-published: 2024-04-01
+title: catnap some guide
+published: 2026-01-26
 description: "How to use this blog template."
 image: "./cover.webp"
 tags: ["Mizuki", "Blogging", "Customization"]

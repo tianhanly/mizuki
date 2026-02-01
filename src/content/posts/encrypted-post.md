@@ -1,10 +1,10 @@
 ---
 title: Encrypted Post
-published: 2024-01-15
+published: 2026-01-22
 description: This is an article for testing the page encryption feature
 encrypted: true
 pinned: true
-password: "123456"
+password: "114514"
 alias: "encrypted-example"
 tags: ["Test", "Encryption"]
 category: "Technology"
@@ -17,7 +17,7 @@ This blog template is built with [Astro](https://astro.build/). For the things t
 ```yaml
 ---
 title: My First Blog Post
-published: 2023-09-09
+published: 2026-01-18
 description: This is the first post of my new Astro blog.
 image: ./cover.jpg
 tags: [Foo, Bar]

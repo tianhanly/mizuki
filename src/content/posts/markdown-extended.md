@@ -1,7 +1,7 @@
 ---
 title: Markdown Extended Features
-published: 2024-05-01
-updated: 2024-11-29
+published: 2026-01-21
+updated: 2026-1-22
 description: 'Read more about Markdown features in Mizuki'
 image: ''
 tags: [Demo, Example, Markdown, mizuki]
@@ -14,10 +14,10 @@ You can add dynamic cards that link to GitHub repositories, on page load, the re
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
-Create a GitHub repository card with the code `::github{repo="matsuzaka-yuki/Mizuki"}`.
+Create a GitHub repository card with the code `::github{repo="tianhanly/tianhanly"}`.
 
 ```markdown
-::github{repo="matsuzaka-yuki/Mizuki"}
+::github{repo="tianhanly/tianhanly"}
 ```
 
 ## Admonitions

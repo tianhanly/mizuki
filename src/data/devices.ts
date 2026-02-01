@@ -16,24 +16,22 @@ export type DeviceCategory = {
 };
 
 export const devicesData: DeviceCategory = {
-	OnePlus: [
+	phone: [
 		{
-			name: "OnePlus 13T",
-			image: "/images/device/oneplus13t.png",
-			specs: "Gray / 16G + 1TB",
-			description:
-				"Flagship performance, Hasselblad imaging, 80W SuperVOOC.",
-			link: "https://www.oneplus.com/cn/13t",
+			name: "Huawei P40 Pro",
+			image: "/images/device/huawei-p40-pro.png",
+			specs: "8G + 256GB",
+			description: "主用机",
+			link: "https://consumer.huawei.com/cn/support/phones/p40-pro/",
 		},
 	],
-	Router: [
+	computer: [
 		{
-			name: "GL-MT3000",
-			image: "/images/device/mt3000.png",
-			specs: "1000Mbps / 2.5G",
-			description:
-				"Portable WiFi 6 router suitable for business trips and home use.",
-			link: "https://www.gl-inet.cn/products/gl-mt3000/",
+			name: "rtx4060",
+			image: "/images/device/rtx4060.png",
+			specs: "8GB GDDR4",
+			description: "勉强够用",
+			link: "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4060-4060ti/",
 		},
 	],
 };
